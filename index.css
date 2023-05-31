@@ -1,0 +1,57 @@
+h1 {
+  color:black;
+  display: block;
+  font-family: 'Sarabun', sans-serif;
+}
+
+h2 {
+  color:black;  
+  display: block;
+  
+  margin-bottom: 3px;
+  font-family: 'Sarabun', sans-serif;
+}
+h3{ color:black;  
+  display: block;
+  font-family: 'Sarabun', sans-serif;
+  text-align: center;
+  margin-left: 15px;
+}
+p {
+  color: black;
+  display: block;
+  font-size: 14pt;
+}
+.chakyu{
+  width: 500px;
+  height: 600px;
+  margin: 0 auto;
+  display: block;
+}
+
+.content{
+  margin: 0 auto;
+  display: block;
+  max-width: 720px;
+}
+.profile{
+  display: flex;
+  justify-content: baseline;
+  align-items: center;
+}
+.kao{width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+}
+.begin{
+  width: 400px;
+  height: 300px;
+  margin: 0 auto;
+  display: block;
+}
+.food{
+  margin: 0 auto;
+  display: block;
+}
